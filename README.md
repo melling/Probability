@@ -15,6 +15,12 @@
 
 # Advanced Topics
 
+
+## Bayesian A/B Testing
+
+- https://www.evanmiller.org/bayesian-ab-testing.html
+- https://towardsdatascience.com/bayesian-a-b-testing-with-python-the-easy-guide-d638f89e0b8a
+
 ## Gaussian Processes
 
 [A Primer on Gaussian Processes for Regression Analysis](https://youtu.be/j7Ruu3Yu-70)
